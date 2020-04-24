@@ -1,5 +1,7 @@
 # Top Projects Finder App
 
+#Prerequisites - Have vue, node, npm, yarn, vue apollo, vuetify install
+
 This application is made with Vue.js, Vue Apollo for integrating with graphQL and Vuetify for styling (my first time using vuetify so apologies in advance if there's less than perfect styling)
 
 ##To run the app locally
